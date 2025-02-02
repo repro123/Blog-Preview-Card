@@ -1,0 +1,12 @@
+@import url(https://fonts.google.com/specimen/Figtree);
+
+@import "tailwindcss";
+
+@theme {
+  --color-body: hsl(47, 88%, 63%);
+  --color-paragraph: hsl(0, 0%, 50%);
+  --color-head: hsl(0, 0%, 7%);
+
+  /* typography */
+  --font-figtree: "Figtree", sans-serif;
+}

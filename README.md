@@ -11,8 +11,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ### The challenge
 
 Users should be able to:
@@ -21,12 +19,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./!image.png)
+![](blogpreview.PNG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/blog-preview-page-mobile-and-desktop-hmM-_m97Ag)
+- Live Site URL: [live](https://repro123.github.io/Blog-Preview-Card/)
 
 ### Built with
 
@@ -34,6 +32,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+- Tailwind CSS
 
 ## Author
 
